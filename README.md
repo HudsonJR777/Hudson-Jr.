@@ -1,6 +1,6 @@
 <div align="center" >
   <h1 align="center" >
-  😊 - Projeto Hora do dia </h1> 
+  😊 - Rede sociais </h1> 
     <h1 align="center" > Acesse em: https://hudsonjr777.github.io/Hudson-Jr./</h1> 
 </div>
 
